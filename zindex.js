@@ -1,5 +1,5 @@
 const setTitle = require('node-bash-title');
-setTitle('ZERO GEN | DM me if you need more tools');
+setTitle('AYU GEN | DM me if you need more tools');
 // Libs
 const crypto = require("crypto")
 const puppeteer = require('puppeteer-extra')
@@ -217,16 +217,16 @@ async function create_accinfos(browser, d) {
 }
 
 (async () => {
-  console.log('  ███████╗███████╗██████╗  ██████╗      ██████╗ ███████╗███╗   ██╗'.brightGreen);
-  console.log('  ╚══███╔╝██╔════╝██╔══██╗██╔═══██╗    ██╔════╝ ██╔════╝████╗  ██║'.brightGreen);
-  console.log('    ███╔╝ █████╗  ██████╔╝██║   ██║    ██║  ███╗█████╗  ██╔██╗ ██║'.brightWhite);
-  console.log('   ███╔╝  ██╔══╝  ██╔══██╗██║   ██║    ██║   ██║██╔══╝  ██║╚██╗██║'.brightWhite);
-  console.log('  ███████╗███████╗██║  ██║╚██████╔╝    ╚██████╔╝███████╗██║ ╚████║'.brightRed);
-  console.log('  ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝      ╚═════╝ ╚══════╝╚═╝  ╚═══╝'.brightRed);
+  console.log('  ░█████╗░██╗░░░██╗██╗░░░██╗  ░██████╗░███████╗███╗░░██╗'.brightPink);
+  console.log('  ██╔══██╗╚██╗░██╔╝██║░░░██║  ██╔════╝░██╔════╝████╗░██║'.brightPurple);
+  console.log('  ███████║░╚████╔╝░██║░░░██║  ██║░░██╗░█████╗░░██╔██╗██║'.brightPink);
+  console.log('  ██╔══██║░░╚██╔╝░░██║░░░██║  ██║░░╚██╗██╔══╝░░██║╚████║'.brightPurple);
+  console.log('  ██║░░██║░░░██║░░░╚██████╔╝  ╚██████╔╝███████╗██║░╚███║║'.brightPink);
+  console.log('  ╚═╝░░╚═╝░░░╚═╝░░░░╚═════╝░  ░╚═════╝░╚══════╝╚═╝░░╚══╝'.brightPurple);
      
-     console.log("TITEL : Token Gen".brightGreen);
-     console.log("Maker : zєяσ#6765".brightWhite);
-     console.log("Discord : https://discord.gg/kRTw3x6jV8    ".brightRed);
+     console.log("Name : Ayu Gen".brightGreen);
+     console.log("Maker : Ayu#6969".brightWhite);
+     
 
      sleep(3);
 
